@@ -1,5 +1,13 @@
 [
     {
+        "name": "docdroid",
+        "url": "https://www.docdroid.net/settings#/delete",
+        "difficulty": "easy",
+        "domains": [
+            "www.docdroid.net"
+        ]
+    },
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
